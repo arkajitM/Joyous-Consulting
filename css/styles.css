@@ -387,7 +387,7 @@ nav ul li a.active::after {
     background:
         radial-gradient(circle at top left, rgba(14,165,233,0.7) 0, transparent 55%),
         radial-gradient(circle at bottom right, rgba(34,197,94,0.6) 0, transparent 55%),
-        url('/../assets/img/hero.jpg') no-repeat center center / cover;
+        url('../assets/img/hero.jpg') no-repeat center center / cover;
     color: white;
 }
 
