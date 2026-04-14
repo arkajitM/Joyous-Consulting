@@ -1,0 +1,23 @@
+{
+  "name": "joyous-consulting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkajitM/Joyous-Consulting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arkajitM/Joyous-Consulting/issues"
+  },
+  "homepage": "https://github.com/arkajitM/Joyous-Consulting#readme",
+  "dependencies": {
+    "nodemailer": "^8.0.5"
+  }
+}
